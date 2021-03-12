@@ -1,4 +1,4 @@
-//Made by SierraNB - https://github.com/SierraNB - www.greggory.gay
+//Copyright (c) 2021 SierraNB - https://github.com/SierraNB - www.greggory.gay
 const http = require('http')
 const Discord = require('discord.js')
 const client = new Discord.Client();
